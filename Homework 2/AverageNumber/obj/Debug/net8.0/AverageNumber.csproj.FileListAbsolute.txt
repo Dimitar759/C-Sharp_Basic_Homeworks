@@ -1,0 +1,15 @@
+C:\Users\dimit\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 2\AverageNumber\bin\Debug\net8.0\AverageNumber.exe
+C:\Users\dimit\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 2\AverageNumber\bin\Debug\net8.0\AverageNumber.deps.json
+C:\Users\dimit\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 2\AverageNumber\bin\Debug\net8.0\AverageNumber.runtimeconfig.json
+C:\Users\dimit\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 2\AverageNumber\bin\Debug\net8.0\AverageNumber.dll
+C:\Users\dimit\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 2\AverageNumber\bin\Debug\net8.0\AverageNumber.pdb
+C:\Users\dimit\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 2\AverageNumber\obj\Debug\net8.0\AverageNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 2\AverageNumber\obj\Debug\net8.0\AverageNumber.AssemblyInfoInputs.cache
+C:\Users\dimit\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 2\AverageNumber\obj\Debug\net8.0\AverageNumber.AssemblyInfo.cs
+C:\Users\dimit\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 2\AverageNumber\obj\Debug\net8.0\AverageNumber.csproj.CoreCompileInputs.cache
+C:\Users\dimit\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 2\AverageNumber\obj\Debug\net8.0\AverageNumber.sourcelink.json
+C:\Users\dimit\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 2\AverageNumber\obj\Debug\net8.0\AverageNumber.dll
+C:\Users\dimit\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 2\AverageNumber\obj\Debug\net8.0\refint\AverageNumber.dll
+C:\Users\dimit\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 2\AverageNumber\obj\Debug\net8.0\AverageNumber.pdb
+C:\Users\dimit\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 2\AverageNumber\obj\Debug\net8.0\AverageNumber.genruntimeconfig.cache
+C:\Users\dimit\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 2\AverageNumber\obj\Debug\net8.0\ref\AverageNumber.dll
