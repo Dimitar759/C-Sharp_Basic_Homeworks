@@ -1,0 +1,15 @@
+C:\Users\dimit\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 4\SumOfEven\bin\Debug\net8.0\SumOfEven.exe
+C:\Users\dimit\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 4\SumOfEven\bin\Debug\net8.0\SumOfEven.deps.json
+C:\Users\dimit\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 4\SumOfEven\bin\Debug\net8.0\SumOfEven.runtimeconfig.json
+C:\Users\dimit\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 4\SumOfEven\bin\Debug\net8.0\SumOfEven.dll
+C:\Users\dimit\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 4\SumOfEven\bin\Debug\net8.0\SumOfEven.pdb
+C:\Users\dimit\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 4\SumOfEven\obj\Debug\net8.0\SumOfEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 4\SumOfEven\obj\Debug\net8.0\SumOfEven.AssemblyInfoInputs.cache
+C:\Users\dimit\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 4\SumOfEven\obj\Debug\net8.0\SumOfEven.AssemblyInfo.cs
+C:\Users\dimit\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 4\SumOfEven\obj\Debug\net8.0\SumOfEven.csproj.CoreCompileInputs.cache
+C:\Users\dimit\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 4\SumOfEven\obj\Debug\net8.0\SumOfEven.sourcelink.json
+C:\Users\dimit\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 4\SumOfEven\obj\Debug\net8.0\SumOfEven.dll
+C:\Users\dimit\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 4\SumOfEven\obj\Debug\net8.0\refint\SumOfEven.dll
+C:\Users\dimit\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 4\SumOfEven\obj\Debug\net8.0\SumOfEven.pdb
+C:\Users\dimit\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 4\SumOfEven\obj\Debug\net8.0\SumOfEven.genruntimeconfig.cache
+C:\Users\dimit\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 4\SumOfEven\obj\Debug\net8.0\ref\SumOfEven.dll
