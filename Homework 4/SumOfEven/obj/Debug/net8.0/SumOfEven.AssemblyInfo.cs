@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SumOfEven")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+443395fc4a38c077730bbbf807538e5d3b76db87")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5160c4ed73a662331ace1a9db44383ac3c22e316")]
 [assembly: System.Reflection.AssemblyProductAttribute("SumOfEven")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SumOfEven")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
