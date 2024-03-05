@@ -1,0 +1,15 @@
+C:\Users\dimit\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 4\StudentGroup\bin\Debug\net8.0\StudentGroup.exe
+C:\Users\dimit\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 4\StudentGroup\bin\Debug\net8.0\StudentGroup.deps.json
+C:\Users\dimit\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 4\StudentGroup\bin\Debug\net8.0\StudentGroup.runtimeconfig.json
+C:\Users\dimit\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 4\StudentGroup\bin\Debug\net8.0\StudentGroup.dll
+C:\Users\dimit\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 4\StudentGroup\bin\Debug\net8.0\StudentGroup.pdb
+C:\Users\dimit\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 4\StudentGroup\obj\Debug\net8.0\StudentGroup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 4\StudentGroup\obj\Debug\net8.0\StudentGroup.AssemblyInfoInputs.cache
+C:\Users\dimit\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 4\StudentGroup\obj\Debug\net8.0\StudentGroup.AssemblyInfo.cs
+C:\Users\dimit\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 4\StudentGroup\obj\Debug\net8.0\StudentGroup.csproj.CoreCompileInputs.cache
+C:\Users\dimit\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 4\StudentGroup\obj\Debug\net8.0\StudentGroup.sourcelink.json
+C:\Users\dimit\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 4\StudentGroup\obj\Debug\net8.0\StudentGroup.dll
+C:\Users\dimit\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 4\StudentGroup\obj\Debug\net8.0\refint\StudentGroup.dll
+C:\Users\dimit\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 4\StudentGroup\obj\Debug\net8.0\StudentGroup.pdb
+C:\Users\dimit\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 4\StudentGroup\obj\Debug\net8.0\StudentGroup.genruntimeconfig.cache
+C:\Users\dimit\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 4\StudentGroup\obj\Debug\net8.0\ref\StudentGroup.dll
