@@ -1,0 +1,15 @@
+C:\Users\dimit\OneDrive\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 6\Exercise_1\bin\Debug\net8.0\Exercise_1.exe
+C:\Users\dimit\OneDrive\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 6\Exercise_1\bin\Debug\net8.0\Exercise_1.deps.json
+C:\Users\dimit\OneDrive\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 6\Exercise_1\bin\Debug\net8.0\Exercise_1.runtimeconfig.json
+C:\Users\dimit\OneDrive\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 6\Exercise_1\bin\Debug\net8.0\Exercise_1.dll
+C:\Users\dimit\OneDrive\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 6\Exercise_1\bin\Debug\net8.0\Exercise_1.pdb
+C:\Users\dimit\OneDrive\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 6\Exercise_1\obj\Debug\net8.0\Exercise_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\OneDrive\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 6\Exercise_1\obj\Debug\net8.0\Exercise_1.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 6\Exercise_1\obj\Debug\net8.0\Exercise_1.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 6\Exercise_1\obj\Debug\net8.0\Exercise_1.csproj.CoreCompileInputs.cache
+C:\Users\dimit\OneDrive\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 6\Exercise_1\obj\Debug\net8.0\Exercise_1.sourcelink.json
+C:\Users\dimit\OneDrive\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 6\Exercise_1\obj\Debug\net8.0\Exercise_1.dll
+C:\Users\dimit\OneDrive\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 6\Exercise_1\obj\Debug\net8.0\refint\Exercise_1.dll
+C:\Users\dimit\OneDrive\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 6\Exercise_1\obj\Debug\net8.0\Exercise_1.pdb
+C:\Users\dimit\OneDrive\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 6\Exercise_1\obj\Debug\net8.0\Exercise_1.genruntimeconfig.cache
+C:\Users\dimit\OneDrive\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 6\Exercise_1\obj\Debug\net8.0\ref\Exercise_1.dll
