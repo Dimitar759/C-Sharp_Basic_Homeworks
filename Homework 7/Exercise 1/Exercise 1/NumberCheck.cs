@@ -24,32 +24,43 @@ namespace Exercise_1
                 positiveOrNegative = "Neither negative or positive (0)";
             }
 
-
-            string oddOrEven = ""; 
-            if(number % 2 == 0)
-            {
-                oddOrEven = "Even";
-
-            }else if (number % 2 != 0)
-            {
-                oddOrEven = "Odd";
-            }
-
             string decimalOrInteger = "";
-            if(number % 1 == 0)
+
+            if (number % 1 == 0)
             {
                 decimalOrInteger = "Integer";
 
-            }else if( number % 1 != 0)
+            }
+            else if (number % 1 != 0)
             {
                 decimalOrInteger = "Decimal";
             }
+
+            string oddOrEven = ""; 
+            if(decimalOrInteger == "Integer")
+            {
+                if (number % 2 == 0)
+                {
+                    oddOrEven = "Even";
+
+                }
+                else if (number % 2 != 0)
+                {
+                    oddOrEven = "Odd";
+                }
+            }else if(decimalOrInteger == "Decimal")
+            {
+                oddOrEven = "Decimals arent odd or even";
+            }
+            
+
+            
             Console.WriteLine("");
             Console.WriteLine("");
             Console.WriteLine($"Stats for number: {number}");
             Console.WriteLine($"• {positiveOrNegative}");
-            Console.WriteLine($"• {oddOrEven}");
             Console.WriteLine($"• {decimalOrInteger}");
+            Console.WriteLine($"• {oddOrEven}");
         }
     }
 }
