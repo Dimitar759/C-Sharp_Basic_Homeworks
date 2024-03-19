@@ -1,0 +1,5 @@
+C:\Users\dimit\OneDrive\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 9\Exercise2\Modules\obj\Debug\net8.0\Modules.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\OneDrive\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 9\Exercise2\Modules\obj\Debug\net8.0\Modules.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 9\Exercise2\Modules\obj\Debug\net8.0\Modules.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 9\Exercise2\Modules\obj\Debug\net8.0\Modules.csproj.CoreCompileInputs.cache
+C:\Users\dimit\OneDrive\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 9\Exercise2\Modules\obj\Debug\net8.0\Modules.sourcelink.json
