@@ -3,3 +3,17 @@ C:\Users\dimit\OneDrive\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 9\Exer
 C:\Users\dimit\OneDrive\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 9\Exercise2\Exercise2\obj\Debug\net8.0\Exercise2.AssemblyInfo.cs
 C:\Users\dimit\OneDrive\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 9\Exercise2\Exercise2\obj\Debug\net8.0\Exercise2.csproj.CoreCompileInputs.cache
 C:\Users\dimit\OneDrive\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 9\Exercise2\Exercise2\obj\Debug\net8.0\Exercise2.sourcelink.json
+C:\Users\dimit\OneDrive\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 9\Exercise2\Exercise2\bin\Debug\net8.0\Exercise2.exe
+C:\Users\dimit\OneDrive\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 9\Exercise2\Exercise2\bin\Debug\net8.0\Exercise2.deps.json
+C:\Users\dimit\OneDrive\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 9\Exercise2\Exercise2\bin\Debug\net8.0\Exercise2.runtimeconfig.json
+C:\Users\dimit\OneDrive\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 9\Exercise2\Exercise2\bin\Debug\net8.0\Exercise2.dll
+C:\Users\dimit\OneDrive\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 9\Exercise2\Exercise2\bin\Debug\net8.0\Exercise2.pdb
+C:\Users\dimit\OneDrive\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 9\Exercise2\Exercise2\bin\Debug\net8.0\Modules2.dll
+C:\Users\dimit\OneDrive\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 9\Exercise2\Exercise2\bin\Debug\net8.0\Modules2.pdb
+C:\Users\dimit\OneDrive\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 9\Exercise2\Exercise2\obj\Debug\net8.0\Exercise2.csproj.AssemblyReference.cache
+C:\Users\dimit\OneDrive\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 9\Exercise2\Exercise2\obj\Debug\net8.0\Exercise2.csproj.Up2Date
+C:\Users\dimit\OneDrive\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 9\Exercise2\Exercise2\obj\Debug\net8.0\Exercise2.dll
+C:\Users\dimit\OneDrive\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 9\Exercise2\Exercise2\obj\Debug\net8.0\refint\Exercise2.dll
+C:\Users\dimit\OneDrive\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 9\Exercise2\Exercise2\obj\Debug\net8.0\Exercise2.pdb
+C:\Users\dimit\OneDrive\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 9\Exercise2\Exercise2\obj\Debug\net8.0\Exercise2.genruntimeconfig.cache
+C:\Users\dimit\OneDrive\Documents\GitHub\C-Sharp_Basic_Homeworks\Homework 9\Exercise2\Exercise2\obj\Debug\net8.0\ref\Exercise2.dll

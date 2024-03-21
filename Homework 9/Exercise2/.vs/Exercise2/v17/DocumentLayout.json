@@ -5,18 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{55B73424-2936-4F38-919F-D735DFB96162}|Exercise2\\Exercise2.csproj|c:\\users\\dimit\\onedrive\\documents\\github\\c-sharp_basic_homeworks\\homework 9\\exercise2\\exercise2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55B73424-2936-4F38-919F-D735DFB96162}|Exercise2\\Exercise2.csproj|solutionrelative:exercise2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6862A7C3-503B-4936-B6D8-86BD6C3AE60B}|Modules\\Modules.csproj|c:\\users\\dimit\\onedrive\\documents\\github\\c-sharp_basic_homeworks\\homework 9\\exercise2\\modules\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6862A7C3-503B-4936-B6D8-86BD6C3AE60B}|Modules\\Modules.csproj|solutionrelative:modules\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6862A7C3-503B-4936-B6D8-86BD6C3AE60B}|Modules\\Modules.csproj|c:\\users\\dimit\\onedrive\\documents\\github\\c-sharp_basic_homeworks\\homework 9\\exercise2\\modules\\statusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6862A7C3-503B-4936-B6D8-86BD6C3AE60B}|Modules\\Modules.csproj|solutionrelative:modules\\statusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6862A7C3-503B-4936-B6D8-86BD6C3AE60B}|Modules\\Modules.csproj|c:\\users\\dimit\\onedrive\\documents\\github\\c-sharp_basic_homeworks\\homework 9\\exercise2\\modules\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6862A7C3-503B-4936-B6D8-86BD6C3AE60B}|Modules\\Modules.csproj|solutionrelative:modules\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,44 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\C-Sharp_Basic_Homeworks\\Homework 9\\Exercise2\\Modules\\Person.cs",
-              "RelativeDocumentMoniker": "Modules\\Person.cs",
-              "ToolTip": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\C-Sharp_Basic_Homeworks\\Homework 9\\Exercise2\\Modules\\Person.cs",
-              "RelativeToolTip": "Modules\\Person.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T09:44:30.579Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "StatusEnum.cs",
-              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\C-Sharp_Basic_Homeworks\\Homework 9\\Exercise2\\Modules\\StatusEnum.cs",
-              "RelativeDocumentMoniker": "Modules\\StatusEnum.cs",
-              "ToolTip": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\C-Sharp_Basic_Homeworks\\Homework 9\\Exercise2\\Modules\\StatusEnum.cs",
-              "RelativeToolTip": "Modules\\StatusEnum.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T09:41:14.577Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Song.cs",
-              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\C-Sharp_Basic_Homeworks\\Homework 9\\Exercise2\\Modules\\Song.cs",
-              "RelativeDocumentMoniker": "Modules\\Song.cs",
-              "ToolTip": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\C-Sharp_Basic_Homeworks\\Homework 9\\Exercise2\\Modules\\Song.cs",
-              "RelativeToolTip": "Modules\\Song.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T09:38:14.025Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -72,7 +24,7 @@
               "RelativeDocumentMoniker": "Exercise2\\Program.cs",
               "ToolTip": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\C-Sharp_Basic_Homeworks\\Homework 9\\Exercise2\\Exercise2\\Program.cs",
               "RelativeToolTip": "Exercise2\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
+              "ViewState": "AQIAACgAAAAAAAAAAAAQwDsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-19T09:37:57.592Z",
               "EditorCaption": ""

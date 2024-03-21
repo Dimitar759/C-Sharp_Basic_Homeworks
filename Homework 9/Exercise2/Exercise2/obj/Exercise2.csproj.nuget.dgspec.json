@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\C-Sharp_Basic_Homeworks\\Homework 9\\Exercise2\\Modules\\Modules.csproj": {
-                "projectPath": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\C-Sharp_Basic_Homeworks\\Homework 9\\Exercise2\\Modules\\Modules.csproj"
+              "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\C-Sharp_Basic_Homeworks\\Homework 9\\Exercise2\\Modules2\\Modules2.csproj": {
+                "projectPath": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\C-Sharp_Basic_Homeworks\\Homework 9\\Exercise2\\Modules2\\Modules2.csproj"
               }
             }
           }
@@ -68,14 +68,14 @@
         }
       }
     },
-    "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\C-Sharp_Basic_Homeworks\\Homework 9\\Exercise2\\Modules\\Modules.csproj": {
+    "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\C-Sharp_Basic_Homeworks\\Homework 9\\Exercise2\\Modules2\\Modules2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\C-Sharp_Basic_Homeworks\\Homework 9\\Exercise2\\Modules\\Modules.csproj",
-        "projectName": "Modules",
-        "projectPath": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\C-Sharp_Basic_Homeworks\\Homework 9\\Exercise2\\Modules\\Modules.csproj",
+        "projectUniqueName": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\C-Sharp_Basic_Homeworks\\Homework 9\\Exercise2\\Modules2\\Modules2.csproj",
+        "projectName": "Modules2",
+        "projectPath": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\C-Sharp_Basic_Homeworks\\Homework 9\\Exercise2\\Modules2\\Modules2.csproj",
         "packagesPath": "C:\\Users\\dimit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\C-Sharp_Basic_Homeworks\\Homework 9\\Exercise2\\Modules\\obj\\",
+        "outputPath": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\C-Sharp_Basic_Homeworks\\Homework 9\\Exercise2\\Modules2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dimit\\AppData\\Roaming\\NuGet\\NuGet.Config",

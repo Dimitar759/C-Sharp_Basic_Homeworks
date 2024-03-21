@@ -1,4 +1,4 @@
-﻿using Modules;
+﻿using Modules2;
 
 namespace Exercise2
 {
@@ -23,10 +23,10 @@ namespace Exercise2
 
             while (true)
             {
-                Console.Write("Favorite Music Type, enter between Classical, Hip Hop, Techno or Rock");
+                Console.WriteLine("Favorite Music Type, enter between Classical, Hip Hop, Techno or Rock");
                 string favouriteMusicType = Console.ReadLine().ToLower();
 
-                if (favouriteMusicType.ToLower() == "Classical")
+                if (favouriteMusicType.ToLower() == "classical")
                 {
                     person.FavouriteMusicType = StatusEnum.Classical;
                     break;
@@ -60,16 +60,18 @@ namespace Exercise2
 
             while (true)
             {
-                Console.Write("Favorite Song: ");
+                Console.Write("Enter your favorite Song: ");
                 string song = Console.ReadLine();
 
                 if (string.IsNullOrEmpty(song))
                 {
-                    break;
+                    continue;
 
                 }
 
                 person.FavouriteSongs.Add(song);
+
+                break;
             }
 
             Console.WriteLine("\nInformation entered:");
