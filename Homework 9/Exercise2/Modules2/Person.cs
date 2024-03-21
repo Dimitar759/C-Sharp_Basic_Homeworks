@@ -20,7 +20,7 @@ namespace Modules2
             if (FavouriteSongs == null || FavouriteSongs.Count == 0)
             {
              
-                return "This person hates music";
+                return "Damnn, you hate music huh? You're lame!";
             }
             else 
             { 

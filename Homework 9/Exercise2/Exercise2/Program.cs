@@ -9,17 +9,98 @@ namespace Exercise2
             Person person = new Person();
 
             Console.WriteLine("Please enter the following information about yourself:");
-            Console.Write("ID: ");
-            person.Id = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("");
 
-            Console.Write("First Name: ");
-            person.FirstName = Console.ReadLine();
+            while (true)
+            {
+                Console.Write("ID: ");
+                string id = Console.ReadLine();
 
-            Console.Write("Last Name: ");
-            person.LastName = Console.ReadLine();
+                if (!int.TryParse(id, out int idNumber))
+                {
+                    Console.WriteLine($"{id} isnt a valid id! Enter a valid id!");
+                    continue;
+                }
+                else if (string.IsNullOrEmpty(id))
+                {
+                    Console.WriteLine("Enter a valid id!");
+                    continue;
+                }
+                else if(int.TryParse(id, out int idNum))
+                {
+                    person.Id = idNum;
+                    break;
+                }
+            }
 
-            Console.Write("Age: ");
-            person.Age = Convert.ToInt32(Console.ReadLine());
+
+            while (true)
+            {
+                Console.Write("First Name: ");
+                string firstName = Console.ReadLine();
+
+                if (int.TryParse(firstName, out int fn))
+                {
+                    Console.WriteLine($"{fn} isnt a valid name! Enter a valid name!");
+                    continue;
+                }
+                else if (string.IsNullOrEmpty(firstName)){
+                    Console.WriteLine("Enter a valid name!");
+                    continue;
+                }
+                else
+                {
+                    person.FirstName = firstName;
+                    break;
+                }
+            }
+            
+
+            while (true)
+            {
+                Console.Write("Last Name: ");
+                string lastName = Console.ReadLine();
+
+                if (int.TryParse(lastName, out int fn))
+                {
+                    Console.WriteLine($"{fn} isnt a valid name! Enter a valid name!");
+                    continue;
+                }
+                else if (string.IsNullOrEmpty(lastName))
+                {
+                    Console.WriteLine("Enter a valid name!");
+                    continue;
+                }
+                else
+                {
+                    person.LastName = lastName;
+                    break;
+                }
+            }
+
+
+            while (true)
+            {
+
+                Console.Write("Age: ");
+                string age = Console.ReadLine();
+
+                if (!int.TryParse(age, out int ageNum))
+                {
+                    Console.WriteLine($"{age} isnt a valid id! Enter a valid id!");
+                    continue;
+                }
+                else if (string.IsNullOrEmpty(age))
+                {
+                    Console.WriteLine("Enter a valid id!");
+                    continue;
+                }
+                else if (int.TryParse(age, out int ageNumb))
+                {
+                    person.Age = ageNumb;
+                    break;
+                }
+            }
 
             while (true)
             {
@@ -31,18 +112,18 @@ namespace Exercise2
                     person.FavouriteMusicType = StatusEnum.Classical;
                     break;
                 }
-                else if (favouriteMusicType.ToLower() == "Hip Hop")
+                else if (favouriteMusicType.ToLower() == "hip hop")
                 {
                     person.FavouriteMusicType = StatusEnum.Hip_Hop;
                     break;
 
                 }
-                else if (favouriteMusicType.ToLower() == "Techno")
+                else if (favouriteMusicType.ToLower() == "techno")
                 {
                     person.FavouriteMusicType = StatusEnum.Techno;
                     break;
                 }
-                else if (favouriteMusicType.ToLower() == "Rock")
+                else if (favouriteMusicType.ToLower() == "rock")
                 {
                     person.FavouriteMusicType = StatusEnum.Rock;
                     break;
@@ -65,13 +146,12 @@ namespace Exercise2
 
                 if (string.IsNullOrEmpty(song))
                 {
-                    continue;
+                    break; ;
 
                 }
 
                 person.FavouriteSongs.Add(song);
 
-                break;
             }
 
             Console.WriteLine("\nInformation entered:");

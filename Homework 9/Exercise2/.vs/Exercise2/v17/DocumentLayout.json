@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{55B73424-2936-4F38-919F-D735DFB96162}|Exercise2\\Exercise2.csproj|c:\\users\\dimit\\onedrive\\documents\\github\\c-sharp_basic_homeworks\\homework 9\\exercise2\\exercise2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55B73424-2936-4F38-919F-D735DFB96162}|Exercise2\\Exercise2.csproj|solutionrelative:exercise2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63046D21-4930-4F82-ABA2-D3AF0A356C32}|Modules2\\Modules2.csproj|c:\\users\\dimit\\onedrive\\documents\\github\\c-sharp_basic_homeworks\\homework 9\\exercise2\\modules2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63046D21-4930-4F82-ABA2-D3AF0A356C32}|Modules2\\Modules2.csproj|solutionrelative:modules2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\C-Sharp_Basic_Homeworks\\Homework 9\\Exercise2\\Modules2\\Person.cs",
+              "RelativeDocumentMoniker": "Modules2\\Person.cs",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\C-Sharp_Basic_Homeworks\\Homework 9\\Exercise2\\Modules2\\Person.cs",
+              "RelativeToolTip": "Modules2\\Person.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T19:45:22.676Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +41,7 @@
               "RelativeDocumentMoniker": "Exercise2\\Program.cs",
               "ToolTip": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\C-Sharp_Basic_Homeworks\\Homework 9\\Exercise2\\Exercise2\\Program.cs",
               "RelativeToolTip": "Exercise2\\Program.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAAAQwDsAAAAAAAAA",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAkwGIAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-19T09:37:57.592Z",
               "EditorCaption": ""
