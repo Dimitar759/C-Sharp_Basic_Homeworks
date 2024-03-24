@@ -28,41 +28,41 @@ namespace ConsoleApp1
                     Console.WriteLine("Enter username:");
                     string username = Console.ReadLine();
 
-                    Console.WriteLine("Enter password:");
-                    string password = Console.ReadLine();
-
-                    if (string.IsNullOrEmpty(username) || string.IsNullOrEmpty(password))
+                    if (string.IsNullOrEmpty(username))
                     {
-                        Console.WriteLine("Username and password cannot be empty.");
+                        Console.WriteLine("Username cannot be empty.");
                         Console.WriteLine("Please try again.");
-                        continue; 
+                        continue;
                     }
 
-                    if (trainers.Any(t => t.Username == username))
+                    if (trainers.Any(s => s.Username == username))
                     {
                         Console.WriteLine("Username already exists. Please choose a different username.");
                         Console.WriteLine("Please try again.");
-                        continue; 
+                        continue;
                     }
+
+                    Console.WriteLine("Enter password:");
+                    string password = Console.ReadLine();
 
                     if (password.Length < 8)
                     {
                         Console.WriteLine("Password must be at least 8 characters long.");
                         Console.WriteLine("Please try again.");
-                        continue; 
+                        continue;
                     }
 
                     Trainer newTrainer = new Trainer(username, password, "Trainer");
                     trainers.Add(newTrainer);
 
-                    Console.WriteLine("Teacher added successfully.");
-                    return "Teacher added successfully.";
+                    Console.WriteLine("Trainer added successfully.");
+                    return "Trainer added successfully.";
                 }
                 catch (Exception ex)
                 {
                     Console.WriteLine($"An error occurred: {ex.Message}");
                     Console.WriteLine("Please try again.");
-                    continue; 
+                    continue;
                 }
             }
         }
@@ -115,22 +115,22 @@ namespace ConsoleApp1
                     Console.WriteLine("Enter username:");
                     string username = Console.ReadLine();
 
-                    Console.WriteLine("Enter password:");
-                    string password = Console.ReadLine();
-
-                    if (string.IsNullOrEmpty(username) || string.IsNullOrEmpty(password))
+                    if (string.IsNullOrEmpty(username))
                     {
-                        Console.WriteLine("Username and password cannot be empty.");
+                        Console.WriteLine("Username cannot be empty.");
                         Console.WriteLine("Please try again.");
                         continue;
                     }
 
-                    if (students.Any(t => t.Username == username))
+                    if (students.Any(s => s.Username == username))
                     {
                         Console.WriteLine("Username already exists. Please choose a different username.");
                         Console.WriteLine("Please try again.");
                         continue;
                     }
+
+                    Console.WriteLine("Enter password:");
+                    string password = Console.ReadLine();
 
                     if (password.Length < 8)
                     {
@@ -202,16 +202,22 @@ namespace ConsoleApp1
                     Console.WriteLine("Enter username:");
                     string username = Console.ReadLine();
 
-
-                    Console.WriteLine("Enter password:");
-                    string password = Console.ReadLine();
-
-                    if (string.IsNullOrEmpty(username) || string.IsNullOrEmpty(password))
+                    if (string.IsNullOrEmpty(username))
                     {
-                        Console.WriteLine("Username and password cannot be empty.");
+                        Console.WriteLine("Username cannot be empty.");
                         Console.WriteLine("Please try again.");
                         continue;
                     }
+
+                    if (admins.Any(s => s.Username == username))
+                    {
+                        Console.WriteLine("Username already exists. Please choose a different username.");
+                        Console.WriteLine("Please try again.");
+                        continue;
+                    }
+
+                    Console.WriteLine("Enter password:");
+                    string password = Console.ReadLine();
 
                     if (password.Length < 8)
                     {
@@ -220,7 +226,7 @@ namespace ConsoleApp1
                         continue;
                     }
 
-                    Admin newAdmin = new Admin(username, password, "Admin");
+                    Trainer newAdmin = new Trainer(username, password, "Admin");
                     admins.Add(newAdmin);
 
                     Console.WriteLine("Admin added successfully.");

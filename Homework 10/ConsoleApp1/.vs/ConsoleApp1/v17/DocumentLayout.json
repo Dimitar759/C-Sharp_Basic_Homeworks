@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{D3990B56-B332-49FC-A56C-492D98340263}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3990B56-B332-49FC-A56C-492D98340263}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\dimit\\onedrive\\documents\\github\\c-sharp_basic_homeworks\\homework 10\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3990B56-B332-49FC-A56C-492D98340263}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D3990B56-B332-49FC-A56C-492D98340263}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\dimit\\onedrive\\documents\\github\\c-sharp_basic_homeworks\\homework 10\\consoleapp1\\consoleapp1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3990B56-B332-49FC-A56C-492D98340263}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3990B56-B332-49FC-A56C-492D98340263}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\dimit\\onedrive\\documents\\github\\c-sharp_basic_homeworks\\homework 10\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3990B56-B332-49FC-A56C-492D98340263}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D3990B56-B332-49FC-A56C-492D98340263}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\dimit\\onedrive\\documents\\github\\c-sharp_basic_homeworks\\homework 10\\consoleapp1\\consoleapp1\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,8 +46,7 @@
               "RelativeToolTip": "ConsoleApp1\\Trainer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-24T14:33:35.934Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-24T14:33:35.934Z"
             },
             {
               "$type": "Document",
@@ -75,7 +74,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\C-Sharp_Basic_Homeworks\\Homework 10\\ConsoleApp1\\ConsoleApp1\\Student.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Student.cs",
@@ -94,14 +93,14 @@
               "RelativeDocumentMoniker": "ConsoleApp1\\Admin.cs",
               "ToolTip": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\C-Sharp_Basic_Homeworks\\Homework 10\\ConsoleApp1\\ConsoleApp1\\Admin.cs",
               "RelativeToolTip": "ConsoleApp1\\Admin.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAADwvxUAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-23T17:58:15.945Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\C-Sharp_Basic_Homeworks\\Homework 10\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
