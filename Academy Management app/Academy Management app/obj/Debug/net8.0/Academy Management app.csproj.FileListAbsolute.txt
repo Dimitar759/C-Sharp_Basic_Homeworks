@@ -1,0 +1,15 @@
+C:\Users\dimit\OneDrive\Documents\GitHub\C-Sharp_Basic_Homeworks\Academy Management app\Academy Management app\bin\Debug\net8.0\Academy Management app.exe
+C:\Users\dimit\OneDrive\Documents\GitHub\C-Sharp_Basic_Homeworks\Academy Management app\Academy Management app\bin\Debug\net8.0\Academy Management app.deps.json
+C:\Users\dimit\OneDrive\Documents\GitHub\C-Sharp_Basic_Homeworks\Academy Management app\Academy Management app\bin\Debug\net8.0\Academy Management app.runtimeconfig.json
+C:\Users\dimit\OneDrive\Documents\GitHub\C-Sharp_Basic_Homeworks\Academy Management app\Academy Management app\bin\Debug\net8.0\Academy Management app.dll
+C:\Users\dimit\OneDrive\Documents\GitHub\C-Sharp_Basic_Homeworks\Academy Management app\Academy Management app\bin\Debug\net8.0\Academy Management app.pdb
+C:\Users\dimit\OneDrive\Documents\GitHub\C-Sharp_Basic_Homeworks\Academy Management app\Academy Management app\obj\Debug\net8.0\Academy Management app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\OneDrive\Documents\GitHub\C-Sharp_Basic_Homeworks\Academy Management app\Academy Management app\obj\Debug\net8.0\Academy Management app.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Documents\GitHub\C-Sharp_Basic_Homeworks\Academy Management app\Academy Management app\obj\Debug\net8.0\Academy Management app.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Documents\GitHub\C-Sharp_Basic_Homeworks\Academy Management app\Academy Management app\obj\Debug\net8.0\Academy Management app.csproj.CoreCompileInputs.cache
+C:\Users\dimit\OneDrive\Documents\GitHub\C-Sharp_Basic_Homeworks\Academy Management app\Academy Management app\obj\Debug\net8.0\Academy Management app.sourcelink.json
+C:\Users\dimit\OneDrive\Documents\GitHub\C-Sharp_Basic_Homeworks\Academy Management app\Academy Management app\obj\Debug\net8.0\Academy Management app.dll
+C:\Users\dimit\OneDrive\Documents\GitHub\C-Sharp_Basic_Homeworks\Academy Management app\Academy Management app\obj\Debug\net8.0\refint\Academy Management app.dll
+C:\Users\dimit\OneDrive\Documents\GitHub\C-Sharp_Basic_Homeworks\Academy Management app\Academy Management app\obj\Debug\net8.0\Academy Management app.pdb
+C:\Users\dimit\OneDrive\Documents\GitHub\C-Sharp_Basic_Homeworks\Academy Management app\Academy Management app\obj\Debug\net8.0\Academy Management app.genruntimeconfig.cache
+C:\Users\dimit\OneDrive\Documents\GitHub\C-Sharp_Basic_Homeworks\Academy Management app\Academy Management app\obj\Debug\net8.0\ref\Academy Management app.dll

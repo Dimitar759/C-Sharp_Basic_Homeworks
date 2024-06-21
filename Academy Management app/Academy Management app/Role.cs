@@ -4,10 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp1
+namespace Academy_Management_app
 {
-    public class Subject
+    public enum Role
     {
-
+        Admin = 1,
+        Teacher,
+        Student
     }
+    
+    
 }
